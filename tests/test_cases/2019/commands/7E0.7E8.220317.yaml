@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    MKC_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    MKC_VCT_EXH_DUTY: 41.07971
+  response: '7E8056203173495'
+- expected_values:
+    MKC_VCT_EXH_DUTY: 41.44592
+  response: 7E805620317350D
+- expected_values:
+    MKC_VCT_EXH_DUTY: 42.00439
+  response: 7E80562031735C4
+- expected_values:
+    MKC_VCT_EXH_DUTY: 42.56287
+  response: 7E805620317367B

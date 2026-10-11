@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    MKC_ETC_TRIM_LRN: 0.56445
+  response: '7E8056203380121'
+- expected_values:
+    MKC_ETC_TRIM_LRN: 0.56641
+  response: '7E8056203380122'
+- expected_values:
+    MKC_ETC_TRIM_LRN: 0.67969
+  response: 7E805620338015C
+- expected_values:
+    MKC_ETC_TRIM_LRN: 0.72656
+  response: '7E8056203380174'
+- expected_values:
+    MKC_ETC_TRIM_LRN: 0.81641
+  response: 7E80562033801A2
+- expected_values:
+    MKC_ETC_TRIM_LRN: 0.85547
+  response: 7E80562033801B6

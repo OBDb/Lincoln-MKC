@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    MKC_TOT_7E0: 37.9375
+  response: 7E805621E1C025F
+- expected_values:
+    MKC_TOT_7E0: 95.875
+  response: 7E805621E1C05FE
+- expected_values:
+    MKC_TOT_7E0: 97.0625
+  response: 7E805621E1C0611

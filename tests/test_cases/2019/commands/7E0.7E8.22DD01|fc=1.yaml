@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    MKC_ODO_7E0: 54568
+  response: 7E80662DD0100D528
+- expected_values:
+    MKC_ODO_7E0: 54599
+  response: 7E80662DD0100D547
+- expected_values:
+    MKC_ODO_7E0: 55059
+  response: 7E80662DD0100D713
+- expected_values:
+    MKC_ODO_7E0: 55513
+  response: 7E80662DD0100D8D9
+- expected_values:
+    MKC_ODO_7E0: 55587
+  response: 7E80662DD0100D923
+- expected_values:
+    MKC_ODO_7E0: 55588
+  response: 7E80662DD0100D924
