@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22033C
+test_cases:
+- expected_values:
+    MKC_TIP_V: 1.62598
+  response: 7E80562033C014D
+- expected_values:
+    MKC_TIP_V: 1.63086
+  response: 7E80562033C014E
+- expected_values:
+    MKC_TIP_V: 1.64062
+  response: 7E80562033C0150
+- expected_values:
+    MKC_TIP_V: 1.66992
+  response: 7E80562033C0156
+- expected_values:
+    MKC_TIP_V: 1.68945
+  response: 7E80562033C015A
+- expected_values:
+    MKC_TIP_V: 1.72852
+  response: 7E80562033C0162
+- expected_values:
+    MKC_TIP_V: 1.76758
+  response: 7E80562033C016A

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220319
+test_cases:
+- expected_values:
+    MKC_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    MKC_VCT_EXH_ACT: 0.0625
+  response: '7E8056203190001'
+- expected_values:
+    MKC_VCT_EXH_ACT: 20.1875
+  response: '7E8056203190143'
+- expected_values:
+    MKC_VCT_EXH_ACT: 21.5625
+  response: '7E8056203190159'
+- expected_values:
+    MKC_VCT_EXH_ACT: 29.0625
+  response: 7E80562031901D1
+- expected_values:
+    MKC_VCT_EXH_ACT: 45.6875
+  response: 7E80562031902DB
+- expected_values:
+    MKC_VCT_EXH_ACT: 50
+  response: 7E805620319FFF6
+- expected_values:
+    MKC_VCT_EXH_ACT: 50
+  response: 7E805620319FFFC
+- expected_values:
+    MKC_VCT_EXH_ACT: 50
+  response: 7E805620319FFFE
+- expected_values:
+    MKC_VCT_EXH_ACT: 50
+  response: 7E805620319FFFF

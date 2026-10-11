@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    MKC_MAP_V: 0.45898
+  response: 7E80562030101D6
+- expected_values:
+    MKC_MAP_V: 0.50293
+  response: '7E8056203010203'
+- expected_values:
+    MKC_MAP_V: 1.25977
+  response: 7E805620301050A

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    MKC_HPFP_DES: 259.61755
+  response: 7E8056203DC00B3
+- expected_values:
+    MKC_HPFP_DES: 265.41906
+  response: 7E8056203DC00B7
+- expected_values:
+    MKC_HPFP_DES: 382.89963
+  response: 7E8056203DC0108
+- expected_values:
+    MKC_HPFP_DES: 400.30416
+  response: 7E8056203DC0114
+- expected_values:
+    MKC_HPFP_DES: 484.42605
+  response: 7E8056203DC014E
+- expected_values:
+    MKC_HPFP_DES: 691.83002
+  response: 7E8056203DC01DD
+- expected_values:
+    MKC_HPFP_DES: 1016.71456
+  response: 7E8056203DC02BD

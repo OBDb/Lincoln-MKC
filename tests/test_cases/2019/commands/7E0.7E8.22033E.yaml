@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    MKC_TIP_ABS: 14.61368
+  response: 7E80562033E3398
+- expected_values:
+    MKC_TIP_ABS: 14.75309
+  response: 7E80562033E3416
+- expected_values:
+    MKC_TIP_ABS: 14.98654
+  response: 7E80562033E34E9
+- expected_values:
+    MKC_TIP_ABS: 15.17353
+  response: 7E80562033E3592
+- expected_values:
+    MKC_TIP_ABS: 15.59287
+  response: 7E80562033E370D
+- expected_values:
+    MKC_TIP_ABS: 16.43264
+  response: 7E80562033E3A04

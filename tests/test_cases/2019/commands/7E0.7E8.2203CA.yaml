@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    MKC_MCT: 74
+  response: 7E8046203CA4A
+- expected_values:
+    MKC_MCT: 81
+  response: 7E8046203CA51
+- expected_values:
+    MKC_MCT: 86
+  response: 7E8046203CA56
+- expected_values:
+    MKC_MCT: 87
+  response: 7E8046203CA57
+- expected_values:
+    MKC_MCT: 88
+  response: 7E8046203CA58
+- expected_values:
+    MKC_MCT: 89
+  response: 7E8046203CA59
+- expected_values:
+    MKC_MCT: 93
+  response: 7E8046203CA5D
+- expected_values:
+    MKC_MCT: 94
+  response: 7E8046203CA5E

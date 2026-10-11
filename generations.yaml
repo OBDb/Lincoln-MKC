@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lincoln_MKC"
+
+generations:
+  - name: "First Generation"
+    start_year: 2015
+    end_year: 2019
+    description: "A compact crossover on the Escape's platform, with 2.0 L and 2.3 L EcoBoost engines."

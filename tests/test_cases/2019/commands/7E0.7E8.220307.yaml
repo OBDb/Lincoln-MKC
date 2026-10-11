@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    MKC_LPFP_DUTY: 28.4668
+  response: '7E8056203072470'
+- expected_values:
+    MKC_LPFP_DUTY: 29.05273
+  response: '7E8056203072530'
+- expected_values:
+    MKC_LPFP_DUTY: 29.67224
+  response: 7E80562030725FB
+- expected_values:
+    MKC_LPFP_DUTY: 31.54297
+  response: '7E8056203072860'
